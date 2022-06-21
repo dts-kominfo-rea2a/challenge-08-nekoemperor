@@ -1,0 +1,28 @@
+body {
+  background-color: blueviolet;
+}
+
+#app {
+  background-color: white;
+  padding-bottom: 20%;
+  margin: 60px 100px 20px 100px;
+  border-radius: 10px;
+}
+
+#todo-title {
+  text-align: center;
+  background-color: greenyellow;
+  border-radius: 10px;
+}
+
+#todo-subtitle {
+  text-align: center;
+}
+
+#input {
+  text-align: center;
+}
+
+#todo-output {
+  /* margin-left: 500px; */
+}
